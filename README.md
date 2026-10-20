@@ -1,4 +1,4 @@
-#To run the console app  execute below command in terminal
+# To run the console app  execute below command in terminal
 
 dotnet run --project src/Uuid.Console
 
