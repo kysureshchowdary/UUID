@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Uuid.Console/Uuid.Console.csproj" />
+    <Project Path="src/Uuid.Core/Uuid.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Uuid.Tests/Uuid.Tests.csproj" />
+  </Folder>
+</Solution>
