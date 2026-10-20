@@ -21,6 +21,7 @@ public sealed class IntegerSequenceParser
     {
         ArgumentNullException.ThrowIfNull(input);
 
+        input = input.Trim();
         if (input.Length == 0)
         {
             return [];
